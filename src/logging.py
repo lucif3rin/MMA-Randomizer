@@ -103,4 +103,3 @@ class Log:
         """
         fatal_msg = f"{Colors.Bg.RED}FATAL:{msg}"
         self.write_to_log(fatal_msg)
-        
