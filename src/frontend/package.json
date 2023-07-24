@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "description": "Frontend for the MMA-Randomizer app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lucif3rin/MMA-Randomizer.git"
+  },
+  "author": "Johnathan Van-Doninck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucif3rin/MMA-Randomizer/issues"
+  },
+  "homepage": "https://github.com/lucif3rin/MMA-Randomizer#readme",
+  "devDependencies": {
+    "electron": "^25.3.1"
+  }
+}
